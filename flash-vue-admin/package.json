@@ -18,7 +18,7 @@
     "@riophae/vue-treeselect": "^0.4.0",
     "axios": "0.18.0",
     "element-resize-detector": "^1.2.1",
-    "element-ui": "2.12.0",
+    "element-ui": "2.15.14",
     "fuse.js": "3.4.4",
     "js-cookie": "2.2.0",
     "normalize.css": "7.0.0",
