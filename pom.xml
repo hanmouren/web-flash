@@ -45,7 +45,7 @@
         <ehcache.version>3.3.1</ehcache.version>
         <ehcache.core.version>2.6.11</ehcache.core.version>
         <zxing.version>3.2.1</zxing.version>
-        <swagger.version>2.2.2</swagger.version>
+        <swagger.version>2.3.1</swagger.version>
         <commons.io.version>2.5</commons.io.version>
         <commons-lang3.version>3.6</commons-lang3.version>
         <kaptcha.version>2.3.2</kaptcha.version>
